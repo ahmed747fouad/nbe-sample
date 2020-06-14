@@ -6,7 +6,7 @@
     "env": {
         "GATEWAY_MERCHANT_ID": {
             "required": true,
-            "description": "Your TEST Gateway merchant ID (must begin with 'TEST')"
+            "description": "Your TEST Gateway merchant ID"
         },
         "GATEWAY_API_PASSWORD": {
             "required": true,
